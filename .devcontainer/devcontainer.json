@@ -1,0 +1,9 @@
+{
+  "name": "Ubuntu",
+  "image": "mcr.microsoft.com/vscode/devcontainers/base:0-ubuntu-22.04",
+  "remoteUser": "vscode",
+  "features": {
+    "node": "16"
+  },
+  "forwardPorts": [8000, 40000]
+}

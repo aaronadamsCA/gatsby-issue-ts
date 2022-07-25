@@ -1,0 +1,16 @@
+{
+  "name": "@test/app",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "clean": "gatsby clean",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "4.18.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "4.7.4"
+  }
+}
